@@ -16,7 +16,7 @@ def palindrome
     puts "#{word} is a palindrome."
   else
     puts "#{word} is not a palindrome."
- 
+  end
 palindrome
 end
 
